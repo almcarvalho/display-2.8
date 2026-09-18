@@ -70,7 +70,7 @@ const char* INSTAGRAM_USERNAME =
   "br.lcsistemas";
 
 const char* INSTAGRAM_TOKEN =
-  "IGAANOgjLd7iJBZAGJGYk4c3lzdwZDZD";
+  "your_token_here";
 
 
 // ======================================================
