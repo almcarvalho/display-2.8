@@ -1,5 +1,14 @@
 # 📊 Display 2.8" com ESP32 — Painel do Instagram
 
+Display
+
+https://meli.la/2koUS81
+
+Antena
+
+https://meli.la/1MLQvft
+
+
 <img width="4032" height="3024" alt="display" src="https://github.com/user-attachments/assets/0b8f3c5e-eb5f-4ba5-9834-7ffd958ddcca" />
 
 
